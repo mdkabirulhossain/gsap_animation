@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1>Hello</h1>
+     <h1 className=' text-5xl text-center font-bold p-5'>Hello</h1>
      <div className='box'>
 
      </div>
